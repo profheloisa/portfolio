@@ -32,13 +32,15 @@
         <div class="row">
             <div class="col-md-4">  <!-- CRIA AS COLUNAS -->
 
-                <!-- PRIMEIRO CARD (REPETE ISSO PARA CADA CARD) -->
+            <!-- COLOCANDO OS CARDS -->
+
+                <!-- Projeto 1 (REPETE ISSO PARA CADA PROJETO) -->
                 <div class="card" style="width: 18rem;">          
                     <img src="(IMAGEM DO PROJETO)" class="card-img-top" alt="projeto1">   <!-- IMAGEM DO CARD -->
                     <div class="card-body">
                       <h5 class="card-title">(TÍTULO)</h5>       <!-- TÍTULO DO CARD -->
                       <p class="card-text">(TEXTO DO CARD)</p>       <!-- TEXTO DO CARD -->
-                      <a href="#" class="btn btn-primary">(BOTÃO)</a>     <!-- BOTÃO DO CARD -->
+                      <a href="#" class="btn btn-primary">Veja o projeto</a>     <!-- BOTÃO DO CARD -->
                     </div>
                 </div>
 
