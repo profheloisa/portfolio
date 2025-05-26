@@ -30,15 +30,19 @@
     <main class="container"> 
         <h2>Meus projetos</h2>
         <div class="row">
-            <div class="col-md-4">                 <!-- CRIA AS COLUNAS -->
-                <div class="card" style="width: 18rem;">           <!-- CRIA UM CARD -->
+            <div class="col-md-4">  <!-- CRIA AS COLUNAS -->
+
+                <!-- PRIMEIRO CARD (REPETE ISSO PARA CADA CARD) -->
+                <div class="card" style="width: 18rem;">          
                     <img src="(IMAGEM DO PROJETO)" class="card-img-top" alt="projeto1">   <!-- IMAGEM DO CARD -->
                     <div class="card-body">
-                      <h5 class="card-title">Card title</h5>       <!-- TÍTULO DO CARD -->
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>       <!-- TEXTO DO CARD -->
-                      <a href="#" class="btn btn-primary">(BOTÃO)</a>             <!-- BOTÃO DO CARD -->
+                      <h5 class="card-title">(TÍTULO)</h5>       <!-- TÍTULO DO CARD -->
+                      <p class="card-text">(TEXTO DO CARD)</p>       <!-- TEXTO DO CARD -->
+                      <a href="#" class="btn btn-primary">(BOTÃO)</a>     <!-- BOTÃO DO CARD -->
                     </div>
-                  </div>
+                </div>
+
+
             </div>
         </div>
 
